@@ -1,0 +1,193 @@
+[
+    {
+        "question":"Stradivarius was famous for what?",
+        "options":["Spotify","Violin","Hearing aids"],
+        "answer":"Violin"
+    },
+    {
+        "question":"What is the name of Michaelangelo's most famous statue?",
+        "options":["Brutus","Alexander","David"],
+        "answer":"David"
+    },
+    {
+        "question":"In television, the waiting room for performance is commonly known as what?",
+        "options":["red room","green room","blue room"],
+        "answer":"green room"
+    },
+    {
+        "question":"Cloud storage company YouSendIt rebranded itself in 2013 to what?",
+        "options":["RapidGator","Box","HighTail"],
+        "answer":"HighTail"
+    },
+    {
+        "question":"A person who is an expert in the science and study of wine is called what?",
+        "options":["Vintner","Oenologist","Brewmaster"],
+        "answer":"Oenologist"
+    },
+    {
+        "question":"Martin Scorsese won his only Best Director Academy Award for which film?",
+        "options":["The Departed","Goodfellas","Raging Bull"],
+        "answer":"The Departed"
+    },
+    {
+        "question":"What was the name of the original 1984 tabletop game launched by FASA about giant fighting robots?",
+        "options":["Mechwarrior","Battledroids","BattleTech"],
+        "answer":"Mechwarrior"
+    },
+    {
+        "question":"What new wave band was cofounded by the composer of many film scores including \"The Royal Tebebaums\" & \"Thor: Ragnarok\"?",
+        "options":["Devo","The Cars","Talking Heads"],
+        "answer":"Devo"
+    },
+    {
+        "question":"What of these web search engines debuted first?",
+        "options":["WebCrawler","Infoseek","AliWeb"],
+        "answer":"AliWeb"
+    },
+    {
+        "question":"Which of these author's bestselling novels features a bird of prey in its title?",
+        "options":["Jodi Picoult","Robert Ludlum","Ransom Riggs"],
+        "answer":"Ransom Riggs"
+    },
+    {
+        "question":"Which artist is famous for his blue period?",
+        "options":["J. M. W. Turner", "Pablo Picasso", "Prince Charles"],
+        "answer":"Pablo Picasso"
+    },
+    {
+        "question":"There is a Russian children's folk tale about Peter and which animal?",
+        "options":["The Sabertooth Tiger", "The Wolf", "The Platypus"],
+        "answer":"The Wolf"
+    },
+    {
+        "question":"In which ocean would you find micronesia?",
+        "options":["Atlantic", "Pacific", "Indian"],
+        "answer":"Pacific"
+    },
+    {
+        "question":"Whose cat is petrified by the basilisk in Harry Potter and the Chamber of Secrets?",
+        "options":["Poppy Pomfrey", "Gilderoy Lockhart", "Argus Filch"],
+        "answer":"Argus Filch"
+    },
+    {
+        "question":"The Ewing Show in the TV show Dallas made their money in which commodity?",
+        "options":["Oil", "Coal", "Steel"],
+        "answer":"Oil"
+    },
+    {
+        "question":"Microsoft Passport was previously known as what?",
+        "options":["MS ID", "MS Single Sign-On", ".NET Passport"],
+        "answer":".NET Passport"
+    },
+    {
+        "question":"The Blue Danube is a waltz by which composer?",
+        "options":["Richard Strauss", "Johann Strauss II", "Franz Strauss"],
+        "answer":"Johann Strauss II"
+    },
+    {
+      "question":"Which of these is a traditional dance from eastern Europe?",
+      "options":["Electric Slide", "Polka", "Moonwalk"],
+      "answer" : "Moonwalk"
+    },
+    {
+        "question":"Which video game motion-captured Mad Men actor Aaron Staton as its star?",
+        "options":["Medal of Honor", "L.A. Noire", "Assassin's Creed 2"],
+        "answer":"L.A. Noire"
+    },
+    {
+        "question":"Who was the first US President to be born in a hospital?",
+        "options":["Jimmy Carter", "Richard Nixon", "Franklin D. Roosevelt"],
+        "answer":"Jimmy Carter"
+    },
+    {
+        "question":"The word robot comes from a Czech word meaning what?",
+        "options":["Forced labor", "Mindless", "Autonomous"],
+        "answer":"Forced labor"
+    },
+    {
+        "question":"About whom did Gabriel Garcia Marquez write The General in his Labyrinth?",
+        "options":["Juan Peron", "Simon Bolivar", "Hernando Cortez"],
+        "answer":"Simon Bolivar"
+    },
+    {
+        "answer": "Cornetto",
+        "options": [
+            "Corbusier",
+            "Clavichord",
+            "Cornetto"
+        ],
+        "question": "Which of these is an early wind instrument, dating from the Mediaeval, Renaissance and Baroque periods, that takes the form of a tube, typically about 60 cm long, made of ivory or wood, with woodwind-style fingerholes?"
+    },
+    {
+        "answer": "John Lee Hooker",
+        "options": [
+            "Howlin' Wolf",
+            "Buddy Guy",
+            "John Lee Hooker"
+        ],
+        "question": "Which American blues artist died on 21 June 2001?"
+    },
+    {
+        "answer": "Jim Crow",
+        "options": [
+            "Black Crow",
+            "Jim Crow",
+            "Black and White"
+        ],
+        "question": "Laws enacted through the southern USA from the late 19th century enforced racial segregation on the basis of race, of people as \"separate but equal\"; what were the laws known as?"
+    },
+    {
+        "answer": "Liechtenstein",
+        "options": [
+            "Belgium",
+            "France",
+            "Liechtenstein"
+        ],
+        "question": "Which of these countries has the smallest area?"
+    },
+    {
+        "answer": "Rocky",
+        "options": [
+            "James Bond",
+            "Rocky",
+            "Superman"
+        ],
+        "question": "Apollo Creed is the enemy of whom?"
+    },
+    {
+        "answer": "Body English",
+        "options": [
+            "Stream flux",
+            "Follow through",
+            "Body English"
+        ],
+        "question": "What is a term for bodily movements, often unconscious, made seemingly to influence the path of an object after it has left the control of the mover?"
+    },
+    {
+        "answer": "Parkour",
+        "options": [
+            "Parkour",
+            "Polevaulting",
+            "Paralympic"
+        ],
+        "question": "What does the \"P\" stand for in the international athletes organisation, formed in 2007, WFPF?"
+    },
+    {
+        "answer": "Minder",
+        "options": [
+            "Minder",
+            "Rumpole of the Bailey",
+            "The Good Life"
+        ],
+        "question": "In which TV series did the lead character refer to his wife as \" 'er indoors\"?"
+    },
+    {
+        "answer": "Greek legend",
+        "options": [
+            "Walt Disney cartoon",
+            "Greek legend",
+            "Oil pipeline"
+        ],
+        "question": "Where did Pluto, discovered in 1930 (and designated a planet at the time), get its name?"
+    }
+]

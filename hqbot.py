@@ -1,5 +1,6 @@
 import io
 import os
+from choose_option import *
 
 # Imports the Google Cloud client library
 from google.cloud import vision
@@ -9,6 +10,7 @@ from googleapiclient.discovery import build
 import webbrowser
 
 from secrets import *
+from choose_option import *
 
 import operator
 
@@ -47,3 +49,5 @@ def search(filename):
             answers.append(lines[i])
     print(question)
     print(answers)
+
+    choose_option(question, answers)
