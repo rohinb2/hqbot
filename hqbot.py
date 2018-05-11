@@ -6,7 +6,7 @@ from choose_option import *
 from google.cloud import vision
 from google.cloud.vision import types
 
-from googleapiclient.discovery import build
+#from googleapiclient.discovery import build
 import webbrowser
 
 from secrets import *
@@ -22,8 +22,9 @@ client = vision.ImageAnnotatorClient()
 def search(filename):
     # The name of the image file to annotate
     file_path = os.path.join(
-        os.path.dirname(__file__), 'hqimgs/imageedit_6_8142551098.jpg')
+        os.path.dirname(__file__), "imgs/" + filename)
         #"imgs/"+filename)
+        # 'hqimgs/imageedit_6_8142551098.jpg'
 
     # Loads the image into memory
     with io.open(file_path, 'rb') as image_file:
