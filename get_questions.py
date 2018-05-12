@@ -1,7 +1,6 @@
 #http://www.quizwise.com/
 import json
 import urllib2
-import pprint
 from bs4 import BeautifulSoup as soup
 
 def get_json(link):
