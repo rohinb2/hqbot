@@ -1,2 +1,5 @@
 My Project-bc1499bb0071b.json
 secrets.template.py
+secrets.py
+*.json
+imgs/*
